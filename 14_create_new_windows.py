@@ -16,3 +16,7 @@ def open():
 btn = Button(root, text='Open second window', command=open).pack()
 
 root.mainloop()
+
+
+Nota:
+para que sea visible la imagen se tiene que declarar la variabel contenedora como global
